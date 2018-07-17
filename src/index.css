@@ -1,5 +1,26 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 5;
   font-family: sans-serif;
+  background-color: teal;
+}
+
+#details {
+    text-align:center;
+    color: white;
+}
+
+#beer-selector {
+    text-align:center;
+}
+
+p {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    font-size: 30px;
+
+}
+
+h2 {
+    font-size: 70px;
 }
